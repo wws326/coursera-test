@@ -1,0 +1,44 @@
+.navbar-default .navbar-brand {
+	color: white;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: white;
+}
+
+#header-nav {
+	border-radius: 0;
+	border: 0;
+	background-color: #0c2340;
+}
+
+.navbar-collapse {
+	background-color: #0c2340;
+}
+
+
+.navbar-collapse li {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+#menu-chicken, #menu-beef, #menu-sushi {
+	padding: 15px 0 15px;
+}
+
+h1 {
+	margin-top: 5px;
+}
+
+.navbar-header {
+	margin-bottom: 37px;
+}
+
+.navbar-toggle {
+	margin-top: 20px;
+}
+
+#sub-content {
+	background-color: #DEE7EF;
+}
